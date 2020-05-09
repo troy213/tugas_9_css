@@ -1,0 +1,19 @@
+img {
+  position: absolute;
+  z-index: -1;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  background-color: white;
+  float: right;
+  width: 50%;
+}
+
+h1, p {
+  position: relative;
+  float: right;
+  text-align: right;
+}
